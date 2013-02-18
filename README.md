@@ -1,4 +1,4 @@
-umm\_script (Ultimate Dev. Machine Script)
+umm\_script (Ultimate Math Machine Script)
 ==========
 
 A Python script that will automatically turn any apt-posessing virtual machine into a mathematician's heaven.
