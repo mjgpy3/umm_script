@@ -7,6 +7,6 @@
 
 from package_container import PackageContainer
 
-packages = {}
+packages = {'TeXMaker': 'texmaker'}
 
 container = PackageContainer("Latex", 'texlive', packages)
