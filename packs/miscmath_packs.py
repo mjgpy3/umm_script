@@ -8,6 +8,7 @@
 from package_container import PackageContainer
 
 packages = {'Octave': 'octave',
-            'GNUPlot': 'gnuplot'}
+            'GNUPlot': 'gnuplot',
+            'Maxima': 'maxima'}
 
 container = PackageContainer("Misc", None, packages)
